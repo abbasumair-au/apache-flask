@@ -4,7 +4,7 @@
 ############################################################
 
 # Set the base image
-FROM debian:latest
+FROM debian:buster
 
 # File Author / Maintainer
 MAINTAINER Carlos Tighe
